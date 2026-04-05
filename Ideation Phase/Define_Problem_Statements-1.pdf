@@ -1,0 +1,453 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 11426
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.960784 .968627 .980392 rg
+n 0 0 595.2756 841.8898 re f*
+.105882 .227451 .419608 rg
+n 0 694.4882 595.2756 147.4016 re f*
+1 1 1 rg
+BT /F2 18 Tf 21.6 TL ET
+BT 1 0 0 1 87.0828 785.1969 Tm (Ideation Phase \227 Define the Problem Statements) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 130.7403 756.8504 Tm (Customer Problem Statement Template: Automating Employee Data) Tj T* ET
+.866667 .909804 .960784 rg
+n 70.86614 712.9134 141.7323 15.59055 re f*
+1 1 1 rg
+n 212.5984 712.9134 311.811 15.59055 re f*
+.666667 .737255 .847059 RG
+n 70.86614 712.9134 453.5433 15.59055 re S
+.105882 .227451 .419608 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 79.37008 717.1654 Tm (Date) Tj T* ET
+0 .007843 .133333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 221.1024 717.1654 Tm (31 January 2025) Tj T* ET
+.866667 .909804 .960784 rg
+n 70.86614 697.3228 141.7323 15.59055 re f*
+1 1 1 rg
+n 212.5984 697.3228 311.811 15.59055 re f*
+.666667 .737255 .847059 RG
+n 70.86614 697.3228 453.5433 15.59055 re S
+.105882 .227451 .419608 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 79.37008 701.5748 Tm (Team ID) Tj T* ET
+0 .007843 .133333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 221.1024 701.5748 Tm  T* ET
+.866667 .909804 .960784 rg
+n 70.86614 681.7323 141.7323 15.59055 re f*
+1 1 1 rg
+n 212.5984 681.7323 311.811 15.59055 re f*
+.666667 .737255 .847059 RG
+n 70.86614 681.7323 453.5433 15.59055 re S
+.105882 .227451 .419608 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 79.37008 685.9843 Tm (Project Name) Tj T* ET
+0 .007843 .133333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 221.1024 685.9843 Tm (Automating Employee Data) Tj T* ET
+.866667 .909804 .960784 rg
+n 70.86614 666.1417 141.7323 15.59055 re f*
+1 1 1 rg
+n 212.5984 666.1417 311.811 15.59055 re f*
+.666667 .737255 .847059 RG
+n 70.86614 666.1417 453.5433 15.59055 re S
+.105882 .227451 .419608 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 79.37008 670.3937 Tm (Maximum Marks) Tj T* ET
+0 .007843 .133333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 221.1024 670.3937 Tm (2 Marks) Tj T* ET
+1 1 1 rg
+n
+42.51969 564.0945 m
+552.7559 564.0945 l
+557.4569 564.0945 561.2598 567.8974 561.2598 572.5984 c
+561.2598 617.9528 l
+561.2598 622.6537 557.4569 626.4567 552.7559 626.4567 c
+42.51969 626.4567 l
+37.81871 626.4567 34.01575 622.6537 34.01575 617.9528 c
+34.01575 572.5984 l
+34.01575 567.8974 37.81871 564.0945 42.51969 564.0945 c
+h
+f*
+.105882 .227451 .419608 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 45.35433 612.2835 Tm (Customer Problem Statement Template:) Tj T* ET
+0 .015686 .266667 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 45.35433 598.1102 Tm (Create a problem statement to understand your customer's point of view. A well-articulated customer problem statement allows you and your team) Tj T* ET
+BT 1 0 0 1 45.35433 583.937 Tm (to find the ideal solution for the challenges your customers face and helps you empathize with them throughout the process.) Tj T* ET
+BT /F3 7.5 Tf 9 TL ET
+.105882 .227451 .419608 rg
+BT 1 0 0 1 45.35433 569.7638 Tm (Reference: https://miro.com/templates/customer-problem-statement/) Tj T* ET
+.105882 .227451 .419608 rg
+n 34.01575 535.748 62.3622 34.01575 re f*
+1 1 1 RG
+n 34.01575 535.748 62.3622 34.01575 re S
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 49.19285 558.4252 Tm (Problem) Tj T* ET
+BT 1 0 0 1 45.86085 544.252 Tm (Statement) Tj T* ET
+.141176 .443137 .639216 rg
+n 96.37795 535.748 73.70079 34.01575 re f*
+1 1 1 RG
+n 96.37795 535.748 73.70079 34.01575 re S
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 125.2243 558.4252 Tm (I am) Tj T* ET
+BT 1 0 0 1 111.8963 544.252 Tm (\(Customer\)) Tj T* ET
+.101961 .321569 .462745 rg
+n 170.0787 535.748 96.37795 34.01575 re f*
+1 1 1 RG
+n 170.0787 535.748 96.37795 34.01575 re S
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 195.5357 551.3386 Tm (I'm trying to) Tj T* ET
+.082353 .262745 .376471 rg
+n 266.4567 535.748 85.03937 34.01575 re f*
+1 1 1 RG
+n 266.4567 535.748 85.03937 34.01575 re S
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 302.3124 551.3386 Tm (But) Tj T* ET
+.054902 .4 .333333 rg
+n 351.4961 535.748 96.37795 34.01575 re f*
+1 1 1 RG
+n 351.4961 535.748 96.37795 34.01575 re S
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 383.233 551.3386 Tm (Because) Tj T* ET
+.066667 .478431 .396078 rg
+n 447.874 535.748 85.03937 34.01575 re f*
+1 1 1 RG
+n 447.874 535.748 85.03937 34.01575 re S
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 464.8297 558.4252 Tm (Which makes) Tj T* ET
+BT 1 0 0 1 476.6097 544.252 Tm (me feel) Tj T* ET
+.866667 .909804 .960784 rg
+n 34.01575 456.378 62.3622 79.37008 re f*
+.733333 .8 .866667 RG
+n 34.01575 456.378 62.3622 79.37008 re S
+BT /F2 7.5 Tf 9 TL ET
+.105882 .227451 .419608 rg
+BT 1 0 0 1 41.10236 522.9921 Tm (PS-1) Tj T* ET
+.921569 .960784 .984314 rg
+n 96.37795 456.378 73.70079 79.37008 re f*
+.733333 .8 .866667 RG
+n 96.37795 456.378 73.70079 79.37008 re S
+BT /F1 7.5 Tf 9 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 103.4646 522.9921 Tm (HR Administrator) Tj T* ET
+BT 1 0 0 1 103.4646 512.8671 Tm (manually) Tj T* ET
+BT 1 0 0 1 103.4646 502.7421 Tm (managing) Tj T* ET
+BT 1 0 0 1 103.4646 492.6171 Tm (employee data) Tj T* ET
+BT 1 0 0 1 103.4646 482.4921 Tm (across) Tj T* ET
+BT 1 0 0 1 103.4646 472.3671 Tm (departments) Tj T* ET
+.909804 .972549 .960784 rg
+n 170.0787 456.378 96.37795 79.37008 re f*
+.733333 .8 .866667 RG
+n 170.0787 456.378 96.37795 79.37008 re S
+BT /F1 7.5 Tf 9 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 177.1654 522.9921 Tm (automate employee) Tj T* ET
+BT 1 0 0 1 177.1654 512.8671 Tm (data import into) Tj T* ET
+BT 1 0 0 1 177.1654 502.7421 Tm (ServiceNow using) Tj T* ET
+BT 1 0 0 1 177.1654 492.6171 Tm (Import Sets) Tj T* ET
+.992157 .929412 .92549 rg
+n 266.4567 456.378 85.03937 79.37008 re f*
+.733333 .8 .866667 RG
+n 266.4567 456.378 85.03937 79.37008 re S
+BT /F1 7.5 Tf 9 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 273.5433 522.9921 Tm (the current process) Tj T* ET
+BT 1 0 0 1 273.5433 512.8671 Tm (requires manual) Tj T* ET
+BT 1 0 0 1 273.5433 502.7421 Tm (Excel updates and) Tj T* ET
+BT 1 0 0 1 273.5433 492.6171 Tm (repetitive data entry) Tj T* ET
+BT 1 0 0 1 273.5433 482.4921 Tm (into the system) Tj T* ET
+.996078 .976471 .905882 rg
+n 351.4961 456.378 96.37795 79.37008 re f*
+.733333 .8 .866667 RG
+n 351.4961 456.378 96.37795 79.37008 re S
+BT /F1 7.5 Tf 9 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 358.5827 522.9921 Tm (there is no automated) Tj T* ET
+BT 1 0 0 1 358.5827 512.8671 Tm (integration between) Tj T* ET
+BT 1 0 0 1 358.5827 502.7421 Tm (external HR files and the) Tj T* ET
+BT 1 0 0 1 358.5827 492.6171 Tm (ServiceNow User table) Tj T* ET
+.917647 .956863 .984314 rg
+n 447.874 456.378 85.03937 79.37008 re f*
+.733333 .8 .866667 RG
+n 447.874 456.378 85.03937 79.37008 re S
+BT /F1 7.5 Tf 9 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 454.9606 522.9921 Tm (Frustrated and) Tj T* ET
+BT 1 0 0 1 454.9606 512.8671 Tm (overwhelmed) Tj T* ET
+.866667 .909804 .960784 rg
+n 34.01575 377.0079 62.3622 79.37008 re f*
+.733333 .8 .866667 RG
+n 34.01575 377.0079 62.3622 79.37008 re S
+BT /F2 7.5 Tf 9 TL ET
+.105882 .227451 .419608 rg
+BT 1 0 0 1 41.10236 443.622 Tm (PS-2) Tj T* ET
+.956863 .92549 .968627 rg
+n 96.37795 377.0079 73.70079 79.37008 re f*
+.733333 .8 .866667 RG
+n 96.37795 377.0079 73.70079 79.37008 re S
+BT /F1 7.5 Tf 9 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 103.4646 443.622 Tm (IT Manager) Tj T* ET
+BT 1 0 0 1 103.4646 433.497 Tm (responsible for) Tj T* ET
+BT 1 0 0 1 103.4646 423.372 Tm (incident) Tj T* ET
+BT 1 0 0 1 103.4646 413.247 Tm (assignments and) Tj T* ET
+BT 1 0 0 1 103.4646 403.122 Tm (system accuracy) Tj T* ET
+.909804 .972549 .960784 rg
+n 170.0787 377.0079 96.37795 79.37008 re f*
+.733333 .8 .866667 RG
+n 170.0787 377.0079 96.37795 79.37008 re S
+BT /F1 7.5 Tf 9 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 177.1654 443.622 Tm (ensure incidents are) Tj T* ET
+BT 1 0 0 1 177.1654 433.497 Tm (assigned to employees) Tj T* ET
+BT 1 0 0 1 177.1654 423.372 Tm (with correct department) Tj T* ET
+BT 1 0 0 1 177.1654 413.247 Tm (and manager info via) Tj T* ET
+BT 1 0 0 1 177.1654 403.122 Tm (dot-walking) Tj T* ET
+.992157 .929412 .92549 rg
+n 266.4567 377.0079 85.03937 79.37008 re f*
+.733333 .8 .866667 RG
+n 266.4567 377.0079 85.03937 79.37008 re S
+BT /F1 7.5 Tf 9 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 273.5433 443.622 Tm (employee records in) Tj T* ET
+BT 1 0 0 1 273.5433 433.497 Tm (ServiceNow are) Tj T* ET
+BT 1 0 0 1 273.5433 423.372 Tm (often outdated or) Tj T* ET
+BT 1 0 0 1 273.5433 413.247 Tm (missing manager) Tj T* ET
+BT 1 0 0 1 273.5433 403.122 Tm (reference data) Tj T* ET
+.996078 .976471 .905882 rg
+n 351.4961 377.0079 96.37795 79.37008 re f*
+.733333 .8 .866667 RG
+n 351.4961 377.0079 96.37795 79.37008 re S
+BT /F1 7.5 Tf 9 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 358.5827 443.622 Tm (the Transform Map is) Tj T* ET
+BT 1 0 0 1 358.5827 433.497 Tm (not configured to map) Tj T* ET
+BT 1 0 0 1 358.5827 423.372 Tm (the Manager reference) Tj T* ET
+BT 1 0 0 1 358.5827 413.247 Tm (field properly from the) Tj T* ET
+BT 1 0 0 1 358.5827 403.122 Tm (staging table) Tj T* ET
+.917647 .956863 .984314 rg
+n 447.874 377.0079 85.03937 79.37008 re f*
+.733333 .8 .866667 RG
+n 447.874 377.0079 85.03937 79.37008 re S
+BT /F1 7.5 Tf 9 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 454.9606 443.622 Tm (Anxious and lacking) Tj T* ET
+BT 1 0 0 1 454.9606 433.497 Tm (confidence in the) Tj T* ET
+BT 1 0 0 1 454.9606 423.372 Tm (system) Tj T* ET
+1 1 1 rg
+n
+42.51969 280.6299 m
+552.7559 280.6299 l
+557.4569 280.6299 561.2598 284.4329 561.2598 289.1339 c
+561.2598 328.8189 l
+561.2598 333.5199 557.4569 337.3228 552.7559 337.3228 c
+42.51969 337.3228 l
+37.81871 337.3228 34.01575 333.5199 34.01575 328.8189 c
+34.01575 289.1339 l
+34.01575 284.4329 37.81871 280.6299 42.51969 280.6299 c
+h
+f*
+.105882 .227451 .419608 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 45.35433 323.1496 Tm (Column Guide:) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+0 .011765 .2 rg
+BT /F2 7.5 Tf 9 TL ET
+.105882 .227451 .419608 rg
+BT 1 0 0 1 45.35433 308.9764 Tm (I am:) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+0 .011765 .2 rg
+BT 1 0 0 1 64.94433 308.9764 Tm (Describe the HR/IT stakeholder and their role) Tj T* ET
+BT /F2 7.5 Tf 9 TL ET
+.105882 .227451 .419608 rg
+BT 1 0 0 1 215.4331 308.9764 Tm (I'm trying to:) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+0 .011765 .2 rg
+BT 1 0 0 1 262.6381 308.9764 Tm (Their goal \227 automate and streamline employee data management) Tj T* ET
+BT /F2 7.5 Tf 9 TL ET
+.105882 .227451 .419608 rg
+BT 1 0 0 1 385.5118 308.9764 Tm (But:) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+0 .011765 .2 rg
+BT 1 0 0 1 402.5893 308.9764 Tm (The barrier \227 manual processes and misconfigured mappings) Tj T* ET
+BT /F2 7.5 Tf 9 TL ET
+.105882 .227451 .419608 rg
+BT 1 0 0 1 45.35433 289.1339 Tm (Because:) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+0 .011765 .2 rg
+BT 1 0 0 1 80.78433 289.1339 Tm (Root cause \227 lack of automation and proper Transform Map setup) Tj T* ET
+BT /F2 7.5 Tf 9 TL ET
+.105882 .227451 .419608 rg
+BT 1 0 0 1 215.4331 289.1339 Tm (Which makes me feel:) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+0 .011765 .2 rg
+BT 1 0 0 1 295.8781 289.1339 Tm (Emotional impact \227 frustration, inefficiency, lack of trust in system) Tj T* ET
+.105882 .227451 .419608 rg
+n 0 0 595.2756 28.34646 re f*
+1 1 1 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 191.8258 9.92126 Tm (Reference: https://miro.com/templates/customer-problem-statement/) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+221.1 713.4898 75 11 re
+f*
+0 0 0 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 221.1 714.9898 Tm
+(04 April 2026) Tj
+T*
+ET
+1 1 1 rg
+1 1 1 RG
+n
+221.1 697.8898 75 11 re
+f*
+0 0 0 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 221.1 699.3898 Tm
+(SWTID\0552026\0553454) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000415 00000 n 
+0000011894 00000 n 
+0000012001 00000 n 
+0000012108 00000 n 
+0000012220 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+12335
+%%EOF

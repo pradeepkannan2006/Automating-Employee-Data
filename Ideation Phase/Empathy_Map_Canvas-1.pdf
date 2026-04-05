@@ -1,0 +1,331 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 7527
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.960784 .968627 .980392 rg
+n 0 0 595.2756 841.8898 re f*
+.105882 .227451 .419608 rg
+n 0 671.811 595.2756 170.0787 re f*
+1 1 1 rg
+BT /F2 20 Tf 24 TL ET
+BT 1 0 0 1 106.4678 779.5276 Tm (Ideation Phase \227 Empathize & Discover) Tj T* ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 162.2478 748.3465 Tm (Empathy Map Canvas: Automating Employee Data) Tj T* ET
+1 1 1 rg
+BT /F1 9 Tf 10.8 TL ET
+.866667 .909804 .960784 rg
+n 70.86614 688.8189 141.7323 17.00787 re f*
+1 1 1 rg
+n 212.5984 688.8189 311.811 17.00787 re f*
+.666667 .737255 .847059 RG
+n 70.86614 688.8189 453.5433 17.00787 re S
+.105882 .227451 .419608 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 79.37008 693.9213 Tm (Date) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 221.1024 693.9213 Tm (31 January 2025) Tj T* ET
+.866667 .909804 .960784 rg
+n 70.86614 671.811 141.7323 17.00787 re f*
+1 1 1 rg
+n 212.5984 671.811 311.811 17.00787 re f*
+.666667 .737255 .847059 RG
+n 70.86614 671.811 453.5433 17.00787 re S
+.105882 .227451 .419608 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 79.37008 676.9134 Tm (Team ID) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 221.1024 676.9134 Tm  T* ET
+.866667 .909804 .960784 rg
+n 70.86614 654.8031 141.7323 17.00787 re f*
+1 1 1 rg
+n 212.5984 654.8031 311.811 17.00787 re f*
+.666667 .737255 .847059 RG
+n 70.86614 654.8031 453.5433 17.00787 re S
+.105882 .227451 .419608 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 79.37008 659.9055 Tm (Project Name) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 221.1024 659.9055 Tm (Automating Employee Data) Tj T* ET
+.866667 .909804 .960784 rg
+n 70.86614 637.7953 141.7323 17.00787 re f*
+1 1 1 rg
+n 212.5984 637.7953 311.811 17.00787 re f*
+.666667 .737255 .847059 RG
+n 70.86614 637.7953 453.5433 17.00787 re S
+.105882 .227451 .419608 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 79.37008 642.8976 Tm (Maximum Marks) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 221.1024 642.8976 Tm (4 Marks) Tj T* ET
+1 1 1 rg
+n
+51.02362 507.4016 m
+544.252 507.4016 l
+548.9529 507.4016 552.7559 511.2045 552.7559 515.9055 c
+552.7559 549.9213 l
+552.7559 554.6222 548.9529 558.4252 544.252 558.4252 c
+51.02362 558.4252 l
+46.32265 558.4252 42.51969 554.6222 42.51969 549.9213 c
+42.51969 515.9055 l
+42.51969 511.2045 46.32265 507.4016 51.02362 507.4016 c
+h
+f*
+.105882 .227451 .419608 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 51.02362 544.252 Tm (Empathy Map Canvas:) Tj T* ET
+.2 .2 .2 rg
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 66.0858 534.8094 Tm (An empathy map captures knowledge about a user's behaviours and attitudes, helping teams better understand their users and the) Tj T* ET
+BT 1 0 0 1 250.7298 524.4094 Tm (problems they experience.) Tj T* ET
+.839216 .917647 .972549 rg
+n 170.0787 381.4299 255.1181 106.1291 re f*
+.666667 .666667 .666667 RG
+n 170.0787 381.4299 255.1181 106.1291 re S
+.105882 .227451 .419608 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 266.6373 467.7165 Tm (THINK & FEEL) Tj T* ET
+.2 .2 .2 rg
+BT /F1 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 180.0115 437.7809 Tm (Worried about data accuracy | Concerned about audit trails | Aspires to) Tj T* ET
+BT 1 0 0 1 183.5028 428.0309 Tm (have a real-time, error-free system | Frustrated by manual processes) Tj T* ET
+BT 1 0 0 1 266.584 418.2809 Tm (slowing operations) Tj T* ET
+.835294 .960784 .890196 rg
+n 42.51969 262.0346 112.252 119.3953 re f*
+n 42.51969 262.0346 112.252 119.3953 re S
+.105882 .227451 .419608 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 85.89717 361.5874 Tm (HEAR) Tj T* ET
+.2 .2 .2 rg
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 56.43217 337.6937 Tm (Colleagues complain about) Tj T* ET
+BT 1 0 0 1 48.71467 328.5937 Tm (duplicate records | Management) Tj T* ET
+BT 1 0 0 1 54.16067 319.4937 Tm (demands accurate HR data |) Tj T* ET
+BT 1 0 0 1 52.92867 310.3937 Tm (Team leads say updates take) Tj T* ET
+BT 1 0 0 1 61.55267 301.2937 Tm (too long | Peers discuss) Tj T* ET
+BT 1 0 0 1 48.45917 292.1937 Tm (ServiceNow automation benefits) Tj T* ET
+.992157 .921569 .815686 rg
+n 440.5039 262.0346 112.252 119.3953 re f*
+n 440.5039 262.0346 112.252 119.3953 re S
+.105882 .227451 .419608 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 487.6254 361.5874 Tm (SEE) Tj T* ET
+.2 .2 .2 rg
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 453.2439 337.6937 Tm (Spreadsheets with outdated) Tj T* ET
+BT 1 0 0 1 453.3104 328.5937 Tm (employee info | Inconsistent) Tj T* ET
+BT 1 0 0 1 451.3714 319.4937 Tm (records across departments |) Tj T* ET
+BT 1 0 0 1 447.8714 310.3937 Tm (Import Set logs in ServiceNow |) Tj T* ET
+BT 1 0 0 1 449.7544 301.2937 Tm (Errors in incident assignments) Tj T* ET
+BT 1 0 0 1 453.8284 292.1937 Tm (due to wrong manager data) Tj T* ET
+.909804 .854902 .937255 rg
+n 170.0787 226.8794 255.1181 92.86299 re f*
+n 170.0787 226.8794 255.1181 92.86299 re S
+.105882 .227451 .419608 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 275.8848 299.8998 Tm (SAY & DO) Tj T* ET
+.2 .2 .2 rg
+BT /F1 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 179.5278 276.5973 Tm (Manually updates records in multiple tools | Says automation is needed) Tj T* ET
+BT 1 0 0 1 183.9715 266.8473 Tm (but lacks guidance | Tries to verify data before processing incidents |) Tj T* ET
+BT 1 0 0 1 221.1453 257.0973 Tm (Runs Transform Maps after each data change) Tj T* ET
+.980392 .858824 .847059 rg
+n 42.51969 155.9055 173.4803 72.96378 re f*
+n 42.51969 155.9055 173.4803 72.96378 re S
+.752941 .223529 .168627 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 118.5093 209.0268 Tm (PAIN) Tj T* ET
+.2 .2 .2 rg
+BT /F1 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 51.79609 195.6738 Tm (Manual data entry errors | Inconsistent records) Tj T* ET
+BT 1 0 0 1 63.32359 185.9238 Tm (| No automated validation | Time lost on) Tj T* ET
+BT 1 0 0 1 104.2511 176.1738 Tm (repetitive tasks) Tj T* ET
+.835294 .960784 .890196 rg
+n 379.2756 155.9055 173.4803 72.96378 re f*
+n 379.2756 155.9055 173.4803 72.96378 re S
+.117647 .517647 .286275 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 454.7657 209.0268 Tm (GAIN) Tj T* ET
+.2 .2 .2 rg
+BT /F1 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 399.1795 195.6738 Tm (Accurate employee records | Automated) Tj T* ET
+BT 1 0 0 1 392.7895 185.9238 Tm (onboarding | Real-time data in ServiceNow |) Tj T* ET
+BT 1 0 0 1 412.2445 176.1738 Tm (Consistent incident assignments) Tj T* ET
+.105882 .227451 .419608 rg
+n
+311.811 327.4016 m
+311.811 335.2292 305.4655 341.5748 297.6378 341.5748 c
+289.8101 341.5748 283.4646 335.2292 283.4646 327.4016 c
+283.4646 319.5739 289.8101 313.2283 297.6378 313.2283 c
+305.4655 313.2283 311.811 319.5739 311.811 327.4016 c
+f*
+.105882 .227451 .419608 rg
+n
+317.4803 294.8031 m
+317.4803 304.9791 308.5965 313.2283 297.6378 313.2283 c
+286.6791 313.2283 277.7953 304.9791 277.7953 294.8031 c
+277.7953 284.6272 286.6791 276.378 297.6378 276.378 c
+308.5965 276.378 317.4803 284.6272 317.4803 294.8031 c
+f*
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 278.7763 296.2205 Tm (HR Admin /) Tj T* ET
+BT 1 0 0 1 279.1613 289.1339 Tm (IT Manager) Tj T* ET
+.105882 .227451 .419608 rg
+n 0 0 595.2756 28.34646 re f*
+1 1 1 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 196.2988 9.92126 Tm (Reference: https://www.mural.co/templates/empathy-map-canvas) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+221.1 690.2898 75 11 re
+f*
+0 0 0 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 221.1 691.7898 Tm
+(04 April 2026) Tj
+T*
+ET
+1 1 1 rg
+1 1 1 RG
+n
+221.1 673.2898 75 11 re
+f*
+0 0 0 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 221.1 674.7898 Tm
+(SWTID\0552026\0553454) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000405 00000 n 
+0000007984 00000 n 
+0000008091 00000 n 
+0000008198 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+8310
+%%EOF
